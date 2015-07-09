@@ -3,9 +3,10 @@
 ##Essentials:
 
 - Swift programming language
-- Objective-C programming language / CoreFoundation
+- Objective-C programming language
 - Distributing Information: Blocks, Delegates, Notifications, Property Observers, KVO
 - UIKit (App Lifecycle, View Controllers, Views)
+- Foundation / Core Foundation
 - Run loops
 - Xcode Project Infrastructure (Workspace, Project, Schemes, Targets, Build Configurations, Info.plist)
 - Error Handling (`NSError`, `throws`, `Result` type)
