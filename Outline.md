@@ -24,6 +24,7 @@
 ##Threading
 
 - GCD / Threading
+	- Different types of locking and serialization tools (serial queues, spin locks, semaphores) 	
 - NSOperationQueue
 
 ##Client-Server Communication
