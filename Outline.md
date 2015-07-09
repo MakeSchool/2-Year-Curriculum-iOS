@@ -31,7 +31,7 @@
 - 302: Authentication & Authorization
 - 303: Encryption
 - 304: Structuring Server Requests
-- 305: Network Requests
+- 305: Network Requests (NSURLSession, Alamofire)
 - 306: Delta Updates in Network Requests
 - 307: Caching
 - 308: JSON Data Format
