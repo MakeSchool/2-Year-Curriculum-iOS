@@ -1,21 +1,69 @@
-#2 Year iOS Curriclum
+#2 Year iOS Curriculum
 
-These components need to be contained:
+##Essentials:
 
 - Swift programming language
-- Objective-C programming language
-- UIKit
+- Objective-C programming language / CoreFoundation
+- Distributing Information: Blocks, Delegates, Notifications, Property Observers, KVO
+- UIKit (App Lifecycle, View Controllers, Views)
 - Run loops
-- Xcode Project Infrastructure (Workspace, Project, Schemes, Targets, Build Configurations)
-- Third Party Libraries (Cocoapods, Carthage, Linking Libs)
-- Core Data
-- GCD / Threading
-- Network Requests
-- Client Server Communication / Delta Updates
-- Unit Testing
-- UI Testing
+- Xcode Project Infrastructure (Workspace, Project, Schemes, Targets, Build Configurations, Info.plist)
+- Error Handling (`NSError`, `throws`, `Result` type)
+- Localization & Accessibility
+
+##Layout and Animation:
 - Auto Layout + Size Classes
-- Animations
-- Value vs. Reference Types
+- Animations with UIKit, CoreAnimation, *UIKitDynamics*
+- CollectionView, TableView
+- Storyboard + Code (PureLayout / Carthography)
+- UIStackView
+- *CoreGraphics*
+- *Few.swift*
+- *IBDesignable + custom Interface Files (XIB)*
+
+##Threading
+
+- GCD / Threading
+- NSOperationQueue
+
+##Client-Server Communication
+- Authentication
+- Encryption
+- Structuring Server Requests
+- Network Requests
+- Delta Updates
+- Caching
+- HTTP(S) Protocol
+- JSON Data Format
+- Other Formats & Protocols: XML, Protocol Buffers, (GraphQL)
+
+##Persistence:
+- Serialization of Swift/Objective-C Objects
+- File System
+- NSUserDefaults
+- Keychain
+- Core Data
+- *Realm*
+
+##Testing & Debugging
+
+- Advanced Debugging with LLDB
+- Unit Testing, Asynchronous Testing (Mocking, Stubbing, Dependency Injection)
+- UI Testing
+
+##Third Party Libraries
+- Dependency Managers: Cocoapods, Carthage
+- Dynamic Frameworks vs. Static Libraries
+- Understanding Linker and resolving linker issues
+
+##Application Architecture & Programming Paradigms
+- When to use Value vs. Reference Types
+- Design Patterns
 - Functional Programming
 - Functional Reactive Programming
+
+
+#Brainstorming Section
+
+##Gotchas
+- Date formatting
