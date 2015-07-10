@@ -66,3 +66,4 @@
 
 ##Gotchas
 - Date formatting
+- Strings (unicode, canonical equivalence, etc.)
