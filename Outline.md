@@ -66,6 +66,10 @@
 - 801: Advanced Git
 - 802: Xcode & Instruments
 
+##Under the hood
+- 901: Objective-C runtime
+- 902: Compiler Infrastructure
+
 #Brainstorming Section
 
 ##Gotchas
