@@ -47,7 +47,6 @@
 - *Realm*
 
 ##Testing & Debugging
-
 - 501: Advanced Debugging with LLDB
 - 502: Unit Testing, Asynchronous Testing (Mocking, Stubbing, Dependency Injection)
 - 503: UI Testing
@@ -62,6 +61,10 @@
 - 702: Object Oriented Design Patterns
 - 703: Functional Programming
 - 704: Functional Reactive Programming
+
+##Tools
+- 801: Advanced Git
+- 802: Xcode & Instruments
 
 #Brainstorming Section
 
