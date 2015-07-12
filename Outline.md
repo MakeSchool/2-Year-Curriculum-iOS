@@ -10,7 +10,7 @@
 - 007: Xcode Project Infrastructure (Workspace, Project, Schemes, Targets, Build Configurations, Info.plist)
 - 008: Error Handling (`NSError`, `throws`, `Result` type)
 - 009: Localization & Accessibility
-- 010: Swift <-> Objective-C interop
+- 010: Swift <-> Objective-C / C interop
 
 ##Layout and Animation:
 - 101: Auto Layout + Size Classes
@@ -67,8 +67,9 @@
 - 802: Xcode & Instruments
 
 ##Under the hood
-- 901: Objective-C runtime
-- 902: Compiler Infrastructure
+- 901: C
+- 902: Objective-C runtime
+- 903: Compiler Infrastructure
 
 #Brainstorming Section
 
