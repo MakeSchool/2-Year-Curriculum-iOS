@@ -5,7 +5,7 @@
 - 002: Objective-C programming language
 - 003: Distributing Information: Blocks, Delegates, Notifications, Property Observers, KVO
 - 004: UIKit (App Lifecycle, View Controllers, Views)
-- 005: Foundation / Core Foundation
+- 005: Swift Standard Library / Foundation / Core Foundation
 - 006: Run loops
 - 007: Xcode Project Infrastructure (Workspace, Project, Schemes, Targets, Build Configurations, Info.plist)
 - 008: Error Handling (`NSError`, `throws`, `Result` type)
