@@ -11,6 +11,7 @@
 - 008: Error Handling (`NSError`, `throws`, `Result` type)
 - 009: Localization & Accessibility
 - 010: Swift <-> Objective-C interop
+- 011: Memory Management on iOS
 
 ##Layout and Animation:
 - 101: Auto Layout + Size Classes
